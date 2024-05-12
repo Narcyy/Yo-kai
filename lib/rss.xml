@@ -1,17 +1,17 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Weyway - Crafts and Guides]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Weyway - Crafts and Guides</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 12 May 2024 02:19:35 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 12 May 2024 02:19:32 GMT</pubDate><copyright><![CDATA[W'eylyn Mavourneen]]></copyright><ttl>60</ttl><dc:creator>W'eylyn Mavourneen</dc:creator><item><title><![CDATA[ Home]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Weyway - Crafts and Guides]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://weyway.github.io/crafts-and-guides/</link><image><url>https://weyway.github.io/crafts-and-guides/lib/media/favicon.png</url><title>Weyway - Crafts and Guides</title><link>https://weyway.github.io/crafts-and-guides/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 12 May 2024 02:54:29 GMT</lastBuildDate><atom:link href="https://weyway.github.io/crafts-and-guides/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 12 May 2024 02:54:26 GMT</pubDate><copyright><![CDATA[W'eylyn Mavourneen]]></copyright><ttl>60</ttl><dc:creator>W'eylyn Mavourneen</dc:creator><item><title><![CDATA[ Home]]></title><description><![CDATA[ 
  <br>Weyway's Crafts and Guides pages live here.
 This is meant to be a quicker way to browse between text-based guides from our FC discord.<br>
 Use the sidebar to browse between each guide.
-<br><img alt="xd.png" src="images\xd.png"><br><br>Latest Changes<br>]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[W'eylyn Mavourneen]]></dc:creator><pubDate>Sun, 12 May 2024 02:17:57 GMT</pubDate><enclosure url="images\xd.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="images\xd.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[ Yo-kai Watch]]></title><description><![CDATA[ 
+<br><img alt="xd.png" src="https://weyway.github.io/crafts-and-guides/images/xd.png"><br><br>Latest Changes<br>]]></description><link>https://weyway.github.io/crafts-and-guides/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[W'eylyn Mavourneen]]></dc:creator><pubDate>Sun, 12 May 2024 02:17:57 GMT</pubDate><enclosure url="https://weyway.github.io/crafts-and-guides/images/xd.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://weyway.github.io/crafts-and-guides/images/xd.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[ Yo-kai Watch]]></title><description><![CDATA[ 
  <br><br><br>
 Start date: 24 April 2024<br>
 End date: Release of 7.0
-<br><br><br><br>Speak with the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Poor-heeled_Youth" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Poor-heeled_Youth" target="_blank">poor-heeled youth</a> on the Steps of Nald (X:9.2 Y:9.1). Upon completion of the quest, you will receive a <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Yo-kai_Watch" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Yo-kai_Watch" target="_blank">Yo-kai Watch</a> and Yo-kai Medallium which you can use to obtain <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" target="_blank">Yo-kai Medals</a><br> <img alt="Pasted image 20240426231447.png" src="images\pasted-image-20240426231447.png"><br>Accepting the quest
+<br><br><br><br>Speak with the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Poor-heeled_Youth" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Poor-heeled_Youth" target="_blank">poor-heeled youth</a> on the Steps of Nald (X:9.2 Y:9.1). Upon completion of the quest, you will receive a <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Yo-kai_Watch" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Yo-kai_Watch" target="_blank">Yo-kai Watch</a> and Yo-kai Medallium which you can use to obtain <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" target="_blank">Yo-kai Medals</a><br> <img alt="Pasted image 20240426231447.png" src="https://weyway.github.io/crafts-and-guides/images/pasted-image-20240426231447.png"><br>Accepting the quest
 In order to undertake this quest, your character must be above level 15, and you must first complete one of the following main scenario quests:<br>
 - <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/The_Gridanian_Envoy" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/The_Gridanian_Envoy" target="_blank">The Gridanian envoy</a><br>
 - <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/The_Lominsan_Envoy" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/The_Lominsan_Envoy" target="_blank">The Lominsan envoy</a><br>
 - <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/The_Ul%27dahn_Envoy" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/The_Ul%27dahn_Envoy" target="_blank">The Ul'dahn Envoy</a>
-<br><br>After gathering <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" target="_blank">Yo-kai Medals</a> and delivering them to the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Wandering_Executive" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Wandering_Executive" target="_blank">wandering executive</a> at the Gold Saucer, he will introduce  you to your favorite Yo-kai. By befriending these Yo-kai, you will be able to summon them as in-game minions. Collect more <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" target="_blank">medals</a> to meet more Yo-kai!<br><img alt="Pasted image 20240427021002.png" src="images\pasted-image-20240427021002.png"><br>What are minions?
+<br><br>After gathering <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" target="_blank">Yo-kai Medals</a> and delivering them to the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Wandering_Executive" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Wandering_Executive" target="_blank">wandering executive</a> at the Gold Saucer, he will introduce  you to your favorite Yo-kai. By befriending these Yo-kai, you will be able to summon them as in-game minions. Collect more <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Yo-kai_Medal" target="_blank">medals</a> to meet more Yo-kai!<br><img alt="Pasted image 20240427021002.png" src="https://weyway.github.io/crafts-and-guides/images/pasted-image-20240427021002.png"><br>What are minions?
 Minions are little companions that follow you around, and your most cherished minions can accompany you on your adventures throughout the realm.
 <br><br>You can exchange Legendary Yo-kai Medals with the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Wandering_Executive" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Wandering_Executive" target="_blank">Wandering executive</a> for your favorite Yo-kai weapon.<br>
 See below for all the information related to rewards.<br><br><br><br>Equip the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Yo-kai_Watch" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Yo-kai_Watch" target="_blank">Yo-kai Watch</a> and take part in FATEs in the areas listed below:<br>
@@ -36,13 +36,13 @@ See below for all the information related to rewards.<br><br><br><br>Equip the <
 FATEs are open-world events that occur spontaneously throughout Eorzea where you and other adventurers join together to fight monsters or assist people in distress. FATEs in progress appear as purple icons on the map, so you can easily locate one and jump in at any time!
 <br>If you are above the level of a FATE, do not forget to sync down your level to be able to participate!<br><br>Legendary Yo-kai Medals are obtainable by participating in certain FATEs while accompanied by the Yo-kai minion that corresponds to the desired weapon.<br>
 With a lot of dedication (and luck), you can gather enough medals to get any Yo-kai weapon you want!<br>There are specific destinations where you should go to gather Legendary Medals, and the location is different depending on the weapon. Be sure to check the Yo-kai Medallium for details on where to go to search for medals.<br><br><br><br>There are 17 Yo-kai to be discovered, and once you have found 13, they can be called to your side as minions.<br>
-You will also gain access to the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Whisper-go_Key" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Whisper-go_Key" target="_blank">Whisper-go</a> mount!<br><img alt="Pasted image 20240427033706.png" src="images\pasted-image-20240427033706.png"><br>If you collect 13 different Yo-kai Weapons you will have access to the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Whisper_A-go-go_Key" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Whisper_A-go-go_Key" target="_blank">Whisper A-go-go</a> mount!<br><img alt="350px-Whisper_A-go-go_Key--20210305232034.png" src="images\350px-whisper_a-go-go_key-20210305232034.png"><br>Collecting all 17 different Yo-kai Weapons will give you access to the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Jibanyan_Couch_Medal" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Jibanyan_Couch_Medal" target="_blank">Jibanyan Couch</a> Mount!<br><img alt="290px-Jibanyan_Couch_Medal--20210305231747.png" src="images\290px-jibanyan_couch_medal-20210305231747.png"><br><br>After befriending all 17 Yo-kai, you can speak with <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Nohi" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Nohi" target="_blank">Nohi</a>at the Gold Saucer (X:5.2 Y:6.9) to purchase a Yo-kai Watch farmer's kit with Manderville Gold Saucer points (MGP)<br><img alt="Pasted image 20240427034751.png" src="images\pasted-image-20240427034751.png"><br>Info
+You will also gain access to the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Whisper-go_Key" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Whisper-go_Key" target="_blank">Whisper-go</a> mount!<br><img alt="Pasted image 20240427033706.png" src="https://weyway.github.io/crafts-and-guides/images/pasted-image-20240427033706.png"><br>If you collect 13 different Yo-kai Weapons you will have access to the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Whisper_A-go-go_Key" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Whisper_A-go-go_Key" target="_blank">Whisper A-go-go</a> mount!<br><img alt="350px-Whisper_A-go-go_Key--20210305232034.png" src="https://weyway.github.io/crafts-and-guides/images/350px-whisper_a-go-go_key-20210305232034.png"><br>Collecting all 17 different Yo-kai Weapons will give you access to the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Jibanyan_Couch_Medal" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Jibanyan_Couch_Medal" target="_blank">Jibanyan Couch</a> Mount!<br><img alt="290px-Jibanyan_Couch_Medal--20210305231747.png" src="https://weyway.github.io/crafts-and-guides/images/290px-jibanyan_couch_medal-20210305231747.png"><br><br>After befriending all 17 Yo-kai, you can speak with <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Nohi" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Nohi" target="_blank">Nohi</a>at the Gold Saucer (X:5.2 Y:6.9) to purchase a Yo-kai Watch farmer's kit with Manderville Gold Saucer points (MGP)<br><img alt="Pasted image 20240427034751.png" src="https://weyway.github.io/crafts-and-guides/images/pasted-image-20240427034751.png"><br>Info
 The framer's kit costs 20.000 MGP
 <br><br>Exchange 10 Legendary Yo-kai Medals of the corresponding minion at the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Wandering_Executive" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Wandering_Executive" target="_blank">Wandering executive</a> for your favorite Yo-kai weapon.<br>See tables below for more info:<br><br><br><br>Tip
 Some minion medals can be farmed in the same zones. So if you find some FATEs that you can clear quickly or have people around to speed up you may do more than one minion's medals in the same zone!
 <br>See groupings on the table below.<br><br><br>Date: 27/04/2024<br>
 Collected by: W'eylyn Mavourneen<br>
-Collected from: FFXIV Lodestone]]></description><link>yo-kai-watch.html</link><guid isPermaLink="false">Yo-kai Watch.md</guid><dc:creator><![CDATA[W'eylyn Mavourneen]]></dc:creator><pubDate>Sun, 12 May 2024 02:14:50 GMT</pubDate><enclosure url="images\pasted-image-20240426231447.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="images\pasted-image-20240426231447.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[ Zodiac Weapons (Relic)]]></title><description><![CDATA[ 
+Collected from: FFXIV Lodestone]]></description><link>https://weyway.github.io/crafts-and-guides/yo-kai-watch.html</link><guid isPermaLink="false">Yo-kai Watch.md</guid><dc:creator><![CDATA[W'eylyn Mavourneen]]></dc:creator><pubDate>Sun, 12 May 2024 02:14:50 GMT</pubDate><enclosure url="https://weyway.github.io/crafts-and-guides/images/pasted-image-20240426231447.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://weyway.github.io/crafts-and-guides/images/pasted-image-20240426231447.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[ Zodiac Weapons (Relic)]]></title><description><![CDATA[ 
  <br><br><img alt="Guide - Zodiac Weapons - Header.png" src="https://ffxiv.gamerescape.com/w/images/thumb/c/ca/Guide_-_Zodiac_Weapons_-_Header.png/550px-Guide_-_Zodiac_Weapons_-_Header.png" referrerpolicy="no-referrer"><br><br>
  Eorzea has witnessed a resurgence of the old ways in recent days, as adventurers the realm over take up the ancient trades of warrior and dragoon, bard and black mage, and more. Now, it is the traditional weaponry of these old mantles that are sought, the means of their making long since lost to the ages. It would seem this longing for things past and old is not limited merely to the schools of war and magic. The reformation of Eorzea's Grand Companies was born of a longing in the hearts of the free peoples of Eorzea — a longing for the days of old and the peace they knew. It is a sentiment that has since spread to the realm's adventurers, guiding them toward the rediscovery of trades from a former age that had all but died out. Small wonder, then, that those who have mastered these ancient ways of battle and sorcery now seek the weapons of eld which will enable them to realize the truest expression of their newfound powers. Thus have adventurers begun their quest for the relics.
 
@@ -63,7 +63,7 @@ Some of the steps will require that you equip the relic weapon to be able to com
 <a rel="noopener" class="external-link" href="https://ffxivrelictracker.com/" target="_blank">https://ffxivrelictracker.com/</a><br>If you complete one full weapon grind, you will unlock the repeatable quests for the subsequent weapons, speeding up the process if doing all of them.<br>
 As some steps require materials bought with Allagan Tomestone of Poetics, Grand Company Seals or Allied Seals you can get ahead gathering some of them before starting.<br>
 _Specially the Grand Company and Allied Seals (Hunts) materials.<br>While there are other materials required for certain crafts further on, here is a brief list of some of the materials needed:<br><br><br><br><br>The chain starts with one of the job specific quests from <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/A_Relic_Reborn" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/A_Relic_Reborn" target="_blank">A relic Reborn</a> given by <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Gerolt" rel="noopener" class="external-link" title="Gerolt" href="https://ffxiv.gamerescape.com/wiki/Gerolt" target="_blank">Gerolt Blackthorn</a> in North Shroud.<br>
-<img alt="Pasted image 20240510000543.png" src="images\pasted-image-20240510000543.png"><br>
+<img alt="Pasted image 20240510000543.png" src="https://weyway.github.io/crafts-and-guides/images/pasted-image-20240510000543.png"><br>
 There is one quest for each job and each of them will have their specifics.<br>
 Instanced content must be done with the job you picked the quest for but can be done unsync and solo.<br><br>Overview
 
@@ -282,15 +282,15 @@ Duties
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Levequest" rel="noopener" class="external-link" title="Category:Levequest" href="https://ffxiv.gamerescape.com/wiki/Category:Levequest" target="_blank"></a><img height="20" alt="Levequest Icon.png" src="https://ffxiv.gamerescape.com/w/images/thumb/7/7c/Levequest_Icon.png/20px-Levequest_Icon.png" referrerpolicy="no-referrer" style="width: 20px; max-width: 100%;"> <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/The_Awry_Salvages" rel="noopener" class="external-link" title="The Awry Salvages" href="https://ffxiv.gamerescape.com/wiki/The_Awry_Salvages" target="_blank">The Awry Salvages</a>&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Mor_Dhona" rel="noopener" class="external-link" title="Mor Dhona" href="https://ffxiv.gamerescape.com/wiki/Mor_Dhona" target="_blank">Mor Dhona</a>
 
 Maps
-<img alt="S1u0VPs.png" src="images\s1u0vps.png"><br>
-<img alt="72BC1et.png" src="images\72bc1et.png"><br>
-<img alt="BevWHpO.png" src="images\bevwhpo.png"><br>
-<img alt="5lJxfDa.png" src="images\5ljxfda.png"><br>
-<img alt="JgMpACZ.png" src="images\jgmpacz.png"><br>
-<img alt="bCGKf6Q.png" src="images\bcgkf6q.png"><br>
-<img alt="lyCB4Qn.png" src="images\lycb4qn.png"><br>
-<img alt="h0Dd6GN.png" src="images\h0dd6gn.png"><br>
-<img alt="Rnlsp34.png" src="images\rnlsp34.png">
+<img alt="S1u0VPs.png" src="https://weyway.github.io/crafts-and-guides/images/s1u0vps.png"><br>
+<img alt="72BC1et.png" src="https://weyway.github.io/crafts-and-guides/images/72bc1et.png"><br>
+<img alt="BevWHpO.png" src="https://weyway.github.io/crafts-and-guides/images/bevwhpo.png"><br>
+<img alt="5lJxfDa.png" src="https://weyway.github.io/crafts-and-guides/images/5ljxfda.png"><br>
+<img alt="JgMpACZ.png" src="https://weyway.github.io/crafts-and-guides/images/jgmpacz.png"><br>
+<img alt="bCGKf6Q.png" src="https://weyway.github.io/crafts-and-guides/images/bcgkf6q.png"><br>
+<img alt="lyCB4Qn.png" src="https://weyway.github.io/crafts-and-guides/images/lycb4qn.png"><br>
+<img alt="h0Dd6GN.png" src="https://weyway.github.io/crafts-and-guides/images/h0dd6gn.png"><br>
+<img alt="Rnlsp34.png" src="https://weyway.github.io/crafts-and-guides/images/rnlsp34.png">
 
 <br><br>Details
 Enemies
@@ -301,7 +301,7 @@ Enemies
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Shelfscale_Reaver" rel="noopener" class="external-link" title="Shelfscale Reaver" href="https://ffxiv.gamerescape.com/wiki/Shelfscale_Reaver" target="_blank">Shelfscale Reaver</a> x3 - <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Western_La_Noscea" rel="noopener" class="external-link" title="Western La Noscea" href="https://ffxiv.gamerescape.com/wiki/Western_La_Noscea" target="_blank">Western La Noscea</a><br>
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/U%27Ghamaro_Golem" rel="noopener" class="external-link" title="U'Ghamaro Golem" href="https://ffxiv.gamerescape.com/wiki/U%27Ghamaro_Golem" target="_blank">U'Ghamaro Golem</a> x3 - <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Outer_La_Noscea" rel="noopener" class="external-link" title="Outer La Noscea" href="https://ffxiv.gamerescape.com/wiki/Outer_La_Noscea" target="_blank">Outer La Noscea</a><br>
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Dullahan" rel="noopener" class="external-link" title="Dullahan" href="https://ffxiv.gamerescape.com/wiki/Dullahan" target="_blank">Dullahan</a> x3 - <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/North_Shroud" rel="noopener" class="external-link" title="North Shroud" href="https://ffxiv.gamerescape.com/wiki/North_Shroud" target="_blank">NorthShroud</a><br>
-<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Sylpheed_Sigh" rel="noopener" class="external-link" title="Sylpheed Sigh" href="https://ffxiv.gamerescape.com/wiki/Sylpheed_Sigh" target="_blank">Sylpheed Sigh</a><a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Genus:Sylph" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Category:Genus:Sylph" target="_blank"></a><img src="lib\media\clip_image001.png" referrerpolicy="no-referrer"> x3 - <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/East_Shroud" rel="noopener" class="external-link" title="East Shroud" href="https://ffxiv.gamerescape.com/wiki/East_Shroud" target="_blank">East Shroud</a><br>
+<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Sylpheed_Sigh" rel="noopener" class="external-link" title="Sylpheed Sigh" href="https://ffxiv.gamerescape.com/wiki/Sylpheed_Sigh" target="_blank">Sylpheed Sigh</a><a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Genus:Sylph" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Category:Genus:Sylph" target="_blank"></a><img src="https://weyway.github.io/crafts-and-guides/lib/media/clip_image001.png" referrerpolicy="no-referrer"> x3 - <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/East_Shroud" rel="noopener" class="external-link" title="East Shroud" href="https://ffxiv.gamerescape.com/wiki/East_Shroud" target="_blank">East Shroud</a><br>
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Zahar%27ak_Archer" rel="noopener" class="external-link" title="Zahar'ak Archer" href="https://ffxiv.gamerescape.com/wiki/Zahar%27ak_Archer" target="_blank">Zahar'ak Archer</a> x3 - <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Southern_Thanalan" rel="noopener" class="external-link" title="Southern Thanalan" href="https://ffxiv.gamerescape.com/wiki/Southern_Thanalan" target="_blank">Southern Thanalan</a><br>
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Tempered_Gladiator" rel="noopener" class="external-link" title="Tempered Gladiator" href="https://ffxiv.gamerescape.com/wiki/Tempered_Gladiator" target="_blank">Tempered Gladiator</a> x3 - <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Southern_Thanalan" rel="noopener" class="external-link" title="Southern Thanalan" href="https://ffxiv.gamerescape.com/wiki/Southern_Thanalan" target="_blank">Southern Thanalan</a>
 
@@ -317,14 +317,14 @@ Duties
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Levequest" rel="noopener" class="external-link" title="Category:Levequest" href="https://ffxiv.gamerescape.com/wiki/Category:Levequest" target="_blank"></a><img height="20" alt="Levequest Icon.png" src="https://ffxiv.gamerescape.com/w/images/thumb/7/7c/Levequest_Icon.png/20px-Levequest_Icon.png" referrerpolicy="no-referrer" style="width: 20px; max-width: 100%;"> <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/The_Museum_Is_Closed" rel="noopener" class="external-link" title="The Museum Is Closed" href="https://ffxiv.gamerescape.com/wiki/The_Museum_Is_Closed" target="_blank">The Museum Is Closed</a>&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Mor_Dhona" rel="noopener" class="external-link" title="Mor Dhona" href="https://ffxiv.gamerescape.com/wiki/Mor_Dhona" target="_blank">Mor Dhona</a>
 
 Maps
-<img alt="ZTad98c.png" src="images\ztad98c.png"><br>
-<img alt="xEU7QIC.png" src="images\xeu7qic.png"><br>
-<img alt="0mi86T6.png" src="images\0mi86t6.png"><br>
-<img alt="7sKMtOH.png" src="images\7skmtoh.png"><br>
-<img alt="1pbhobf.png" src="images\1pbhobf.png"><br>
-<img alt="J6vzWQI.png" src="images\j6vzwqi.png"><br>
-<img alt="HHMETKV.png" src="images\hhmetkv.png"><br>
-<img alt="cDWIDni.png" src="images\cdwidni.png">
+<img alt="ZTad98c.png" src="https://weyway.github.io/crafts-and-guides/images/ztad98c.png"><br>
+<img alt="xEU7QIC.png" src="https://weyway.github.io/crafts-and-guides/images/xeu7qic.png"><br>
+<img alt="0mi86T6.png" src="https://weyway.github.io/crafts-and-guides/images/0mi86t6.png"><br>
+<img alt="7sKMtOH.png" src="https://weyway.github.io/crafts-and-guides/images/7skmtoh.png"><br>
+<img alt="1pbhobf.png" src="https://weyway.github.io/crafts-and-guides/images/1pbhobf.png"><br>
+<img alt="J6vzWQI.png" src="https://weyway.github.io/crafts-and-guides/images/j6vzwqi.png"><br>
+<img alt="HHMETKV.png" src="https://weyway.github.io/crafts-and-guides/images/hhmetkv.png"><br>
+<img alt="cDWIDni.png" src="https://weyway.github.io/crafts-and-guides/images/cdwidni.png">
 
 <br><br>Details
 Enemies
@@ -333,7 +333,7 @@ Enemies
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Giant_Lugger" rel="noopener" class="external-link" title="Giant Lugger" href="https://ffxiv.gamerescape.com/wiki/Giant_Lugger" target="_blank">Giant Lugger</a> &nbsp;x3&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Coerthas_Central_Highlands" rel="noopener" class="external-link" title="Coerthas Central Highlands" href="https://ffxiv.gamerescape.com/wiki/Coerthas_Central_Highlands" target="_blank">Coerthas Central Highlands</a><br>
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Zahar%27ak_Fortune-teller" rel="noopener" class="external-link" title="Zahar'ak Fortune-teller" href="https://ffxiv.gamerescape.com/wiki/Zahar%27ak_Fortune-teller" target="_blank">Zahar'ak Fortune-teller</a> &nbsp;x3&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Southern_Thanalan" rel="noopener" class="external-link" title="Southern Thanalan" href="https://ffxiv.gamerescape.com/wiki/Southern_Thanalan" target="_blank">Southern Thanalan</a><br>
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Tempered_Orator" rel="noopener" class="external-link" title="Tempered Orator" href="https://ffxiv.gamerescape.com/wiki/Tempered_Orator" target="_blank">Tempered Orator</a> &nbsp;x3&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Southern_Thanalan" rel="noopener" class="external-link" title="Southern Thanalan" href="https://ffxiv.gamerescape.com/wiki/Southern_Thanalan" target="_blank">Southern Thanalan</a><br>
-<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Sylpheed_Screech" rel="noopener" class="external-link" title="Sylpheed Screech" href="https://ffxiv.gamerescape.com/wiki/Sylpheed_Screech" target="_blank">Sylpheed Screech</a><a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Genus:Sylph" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Category:Genus:Sylph" target="_blank"></a><img src="lib\media\clip_image001.png" referrerpolicy="no-referrer"> &nbsp;x3&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/East_Shroud" rel="noopener" class="external-link" title="East Shroud" href="https://ffxiv.gamerescape.com/wiki/East_Shroud" target="_blank">East Shroud</a><br>
+<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Sylpheed_Screech" rel="noopener" class="external-link" title="Sylpheed Screech" href="https://ffxiv.gamerescape.com/wiki/Sylpheed_Screech" target="_blank">Sylpheed Screech</a><a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Genus:Sylph" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Category:Genus:Sylph" target="_blank"></a><img src="https://weyway.github.io/crafts-and-guides/lib/media/clip_image001.png" referrerpolicy="no-referrer"> &nbsp;x3&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/East_Shroud" rel="noopener" class="external-link" title="East Shroud" href="https://ffxiv.gamerescape.com/wiki/East_Shroud" target="_blank">East Shroud</a><br>
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Wild_Hog" rel="noopener" class="external-link" title="Wild Hog" href="https://ffxiv.gamerescape.com/wiki/Wild_Hog" target="_blank">Wild Hog</a> &nbsp;x3&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/South_Shroud" rel="noopener" class="external-link" title="South Shroud" href="https://ffxiv.gamerescape.com/wiki/South_Shroud" target="_blank">South Shroud</a><br>
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/2nd_Cohort_Laquearius" rel="noopener" class="external-link" title="2nd Cohort Laquearius" href="https://ffxiv.gamerescape.com/wiki/2nd_Cohort_Laquearius" target="_blank">2nd Cohort Laquearius</a> &nbsp;x3&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Eastern_La_Noscea" rel="noopener" class="external-link" title="Eastern La Noscea" href="https://ffxiv.gamerescape.com/wiki/Eastern_La_Noscea" target="_blank">Eastern La Noscea</a><br>
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/U%27Ghamaro_Roundsman" rel="noopener" class="external-link" title="U'Ghamaro Roundsman" href="https://ffxiv.gamerescape.com/wiki/U%27Ghamaro_Roundsman" target="_blank">U'Ghamaro Roundsman</a> &nbsp;x3&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Outer_La_Noscea" rel="noopener" class="external-link" title="Outer La Noscea" href="https://ffxiv.gamerescape.com/wiki/Outer_La_Noscea" target="_blank">Outer La Noscea</a><br>
@@ -351,15 +351,15 @@ Duties
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Levequest" rel="noopener" class="external-link" title="Category:Levequest" href="https://ffxiv.gamerescape.com/wiki/Category:Levequest" target="_blank"></a><img height="20" alt="Levequest Icon.png" src="https://ffxiv.gamerescape.com/w/images/thumb/7/7c/Levequest_Icon.png/20px-Levequest_Icon.png" referrerpolicy="no-referrer" style="width: 20px; max-width: 100%;"> <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Circling_the_Ceruleum" rel="noopener" class="external-link" title="Circling the Ceruleum" href="https://ffxiv.gamerescape.com/wiki/Circling_the_Ceruleum" target="_blank">Circling the Ceruleum</a>&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Northern_Thanalan" rel="noopener" class="external-link" title="Northern Thanalan" href="https://ffxiv.gamerescape.com/wiki/Northern_Thanalan" target="_blank">Northern Thanalan</a>
 
 Maps
-<img alt="NPt2quy.png" src="images\npt2quy.png"><br>
-<img alt="2coDRZX.png" src="images\2codrzx.png"><br>
-<img alt="OXwKc0G.png" src="images\oxwkc0g.png"><br>
-<img alt="bPXHU8C.png" src="images\bpxhu8c.png"><br>
-<img alt="SW6NyUl.png" src="images\sw6nyul.png"><br>
-<img alt="mc0qAGM.png" src="images\mc0qagm.png"><br>
-<img alt="pReKVjF.png" src="images\prekvjf.png"><br>
-<img alt="ASYKQZ8.png" src="images\asykqz8.png"><br>
-<img alt="Mkizq4v.png" src="images\mkizq4v.png">
+<img alt="NPt2quy.png" src="https://weyway.github.io/crafts-and-guides/images/npt2quy.png"><br>
+<img alt="2coDRZX.png" src="https://weyway.github.io/crafts-and-guides/images/2codrzx.png"><br>
+<img alt="OXwKc0G.png" src="https://weyway.github.io/crafts-and-guides/images/oxwkc0g.png"><br>
+<img alt="bPXHU8C.png" src="https://weyway.github.io/crafts-and-guides/images/bpxhu8c.png"><br>
+<img alt="SW6NyUl.png" src="https://weyway.github.io/crafts-and-guides/images/sw6nyul.png"><br>
+<img alt="mc0qAGM.png" src="https://weyway.github.io/crafts-and-guides/images/mc0qagm.png"><br>
+<img alt="pReKVjF.png" src="https://weyway.github.io/crafts-and-guides/images/prekvjf.png"><br>
+<img alt="ASYKQZ8.png" src="https://weyway.github.io/crafts-and-guides/images/asykqz8.png"><br>
+<img alt="Mkizq4v.png" src="https://weyway.github.io/crafts-and-guides/images/mkizq4v.png">
 
 <br><br><br><br>Details
 Enemies
@@ -386,15 +386,15 @@ Duties
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Levequest" rel="noopener" class="external-link" title="Category:Levequest" href="https://ffxiv.gamerescape.com/wiki/Category:Levequest" target="_blank"></a><img height="20" alt="Levequest Icon.png" src="https://ffxiv.gamerescape.com/w/images/thumb/7/7c/Levequest_Icon.png/20px-Levequest_Icon.png" referrerpolicy="no-referrer" style="width: 20px; max-width: 100%;"> <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Go_Home_to_Mama" rel="noopener" class="external-link" title="Go Home to Mama" href="https://ffxiv.gamerescape.com/wiki/Go_Home_to_Mama" target="_blank">Go Home to Mama</a>&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Mor_Dhona" rel="noopener" class="external-link" title="Mor Dhona" href="https://ffxiv.gamerescape.com/wiki/Mor_Dhona" target="_blank">Mor Dhona</a>
 
 Maps
-<img alt="2vXintM.png" src="images\2vxintm.png"><br>
-<img alt="b4ivkQB.png" src="images\b4ivkqb.png"><br>
-<img alt="UHP5oR7.png" src="images\uhp5or7.png"><br>
-<img alt="EWAWrHB.png" src="images\ewawrhb.png"><br>
-<img alt="oVf3gtt.png" src="images\ovf3gtt.png"><br>
-<img alt="hJhmff4.png" src="images\hjhmff4.png"><br>
-<img alt="KJIktSd.png" src="images\kjiktsd.png"><br>
-<img alt="uAKOy5Y.png" src="images\uakoy5y.png"><br>
-<img alt="3mU2sLU.png" src="images\3mu2slu.png">
+<img alt="2vXintM.png" src="https://weyway.github.io/crafts-and-guides/images/2vxintm.png"><br>
+<img alt="b4ivkQB.png" src="https://weyway.github.io/crafts-and-guides/images/b4ivkqb.png"><br>
+<img alt="UHP5oR7.png" src="https://weyway.github.io/crafts-and-guides/images/uhp5or7.png"><br>
+<img alt="EWAWrHB.png" src="https://weyway.github.io/crafts-and-guides/images/ewawrhb.png"><br>
+<img alt="oVf3gtt.png" src="https://weyway.github.io/crafts-and-guides/images/ovf3gtt.png"><br>
+<img alt="hJhmff4.png" src="https://weyway.github.io/crafts-and-guides/images/hjhmff4.png"><br>
+<img alt="KJIktSd.png" src="https://weyway.github.io/crafts-and-guides/images/kjiktsd.png"><br>
+<img alt="uAKOy5Y.png" src="https://weyway.github.io/crafts-and-guides/images/uakoy5y.png"><br>
+<img alt="3mU2sLU.png" src="https://weyway.github.io/crafts-and-guides/images/3mu2slu.png">
 
 <br><br>Details
 Enemies
@@ -421,15 +421,15 @@ Duties
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Levequest" rel="noopener" class="external-link" title="Category:Levequest" href="https://ffxiv.gamerescape.com/wiki/Category:Levequest" target="_blank"></a><img height="20" alt="Levequest Icon.png" src="https://ffxiv.gamerescape.com/w/images/thumb/7/7c/Levequest_Icon.png/20px-Levequest_Icon.png" referrerpolicy="no-referrer" style="width: 20px; max-width: 100%;"> <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Get_off_Our_Lake" rel="noopener" class="external-link" title="Get off Our Lake" href="https://ffxiv.gamerescape.com/wiki/Get_off_Our_Lake" target="_blank">Get off Our Lake</a>&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Mor_Dhona" rel="noopener" class="external-link" title="Mor Dhona" href="https://ffxiv.gamerescape.com/wiki/Mor_Dhona" target="_blank">Mor Dhona</a>
 
 Maps
-<img alt="dh7Wmwu.png" src="images\dh7wmwu.png"><br>
-<img alt="nT0Mgp8.png" src="images\nt0mgp8.png"><br>
-<img alt="DWPICMa.png" src="images\dwpicma.png"><br>
-<img alt="bBaC1SE.png" src="images\bbac1se.png"><br>
-<img alt="4rAdKff.png" src="images\4radkff.png"><br>
-<img alt="G5kTnGF.png" src="images\g5ktngf.png"><br>
-<img alt="ucURvqt.png" src="images\ucurvqt.png"><br>
-<img alt="QxVluUP.png" src="images\qxvluup.png"><br>
-<img alt="iPybWp0.png" src="images\ipybwp0.png">
+<img alt="dh7Wmwu.png" src="https://weyway.github.io/crafts-and-guides/images/dh7wmwu.png"><br>
+<img alt="nT0Mgp8.png" src="https://weyway.github.io/crafts-and-guides/images/nt0mgp8.png"><br>
+<img alt="DWPICMa.png" src="https://weyway.github.io/crafts-and-guides/images/dwpicma.png"><br>
+<img alt="bBaC1SE.png" src="https://weyway.github.io/crafts-and-guides/images/bbac1se.png"><br>
+<img alt="4rAdKff.png" src="https://weyway.github.io/crafts-and-guides/images/4radkff.png"><br>
+<img alt="G5kTnGF.png" src="https://weyway.github.io/crafts-and-guides/images/g5ktngf.png"><br>
+<img alt="ucURvqt.png" src="https://weyway.github.io/crafts-and-guides/images/ucurvqt.png"><br>
+<img alt="QxVluUP.png" src="https://weyway.github.io/crafts-and-guides/images/qxvluup.png"><br>
+<img alt="iPybWp0.png" src="https://weyway.github.io/crafts-and-guides/images/ipybwp0.png">
 
 <br><br>Details
 Enemies
@@ -456,15 +456,15 @@ Duties
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Levequest" rel="noopener" class="external-link" title="Category:Levequest" href="https://ffxiv.gamerescape.com/wiki/Category:Levequest" target="_blank"></a><img height="20" alt="Levequest Icon.png" src="https://ffxiv.gamerescape.com/w/images/thumb/7/7c/Levequest_Icon.png/20px-Levequest_Icon.png" referrerpolicy="no-referrer" style="width: 20px; max-width: 100%;"> <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Who_Writes_History" rel="noopener" class="external-link" title="Who Writes History" href="https://ffxiv.gamerescape.com/wiki/Who_Writes_History" target="_blank">Who Writes History</a>&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Mor_Dhona" rel="noopener" class="external-link" title="Mor Dhona" href="https://ffxiv.gamerescape.com/wiki/Mor_Dhona" target="_blank">Mor Dhona</a>
 
 Maps
-<img alt="If5j6V1.png" src="images\if5j6v1.png"><br>
-<img alt="ggFeZEP.png" src="images\ggfezep.png"><br>
-<img alt="IWr9KqA.png" src="images\iwr9kqa.png"><br>
-<img alt="ZzncP3T 1.png" src="images\zzncp3t-1.png"><br>
-<img alt="lypFIj6.png" src="images\lypfij6.png"><br>
-<img alt="DoWYbAW.png" src="images\dowybaw.png"><br>
-<img alt="EwOxjo8.png" src="images\ewoxjo8.png"><br>
-<img alt="fQC1DI3.png" src="images\fqc1di3.png"><br>
-<img alt="3eEiYEk.png" src="images\3eeiyek.png">
+<img alt="If5j6V1.png" src="https://weyway.github.io/crafts-and-guides/images/if5j6v1.png"><br>
+<img alt="ggFeZEP.png" src="https://weyway.github.io/crafts-and-guides/images/ggfezep.png"><br>
+<img alt="IWr9KqA.png" src="https://weyway.github.io/crafts-and-guides/images/iwr9kqa.png"><br>
+<img alt="ZzncP3T 1.png" src="https://weyway.github.io/crafts-and-guides/images/zzncp3t-1.png"><br>
+<img alt="lypFIj6.png" src="https://weyway.github.io/crafts-and-guides/images/lypfij6.png"><br>
+<img alt="DoWYbAW.png" src="https://weyway.github.io/crafts-and-guides/images/dowybaw.png"><br>
+<img alt="EwOxjo8.png" src="https://weyway.github.io/crafts-and-guides/images/ewoxjo8.png"><br>
+<img alt="fQC1DI3.png" src="https://weyway.github.io/crafts-and-guides/images/fqc1di3.png"><br>
+<img alt="3eEiYEk.png" src="https://weyway.github.io/crafts-and-guides/images/3eeiyek.png">
 
 <br><br><br><br>Details
 Enemies
@@ -491,16 +491,16 @@ Duties
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Levequest" rel="noopener" class="external-link" title="Category:Levequest" href="https://ffxiv.gamerescape.com/wiki/Category:Levequest" target="_blank"></a><img height="20" alt="Levequest Icon.png" src="https://ffxiv.gamerescape.com/w/images/thumb/7/7c/Levequest_Icon.png/20px-Levequest_Icon.png" referrerpolicy="no-referrer" style="width: 20px; max-width: 100%;"> <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Someone%27s_Got_a_Big_Mouth" rel="noopener" class="external-link" title="Someone's Got a Big Mouth" href="https://ffxiv.gamerescape.com/wiki/Someone%27s_Got_a_Big_Mouth" target="_blank">Someone's Got a Big Mouth</a>&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Coerthas_Central_Highlands" rel="noopener" class="external-link" title="Coerthas Central Highlands" href="https://ffxiv.gamerescape.com/wiki/Coerthas_Central_Highlands" target="_blank">Coerthas Central Highlands</a>
 
 Maps
-<img alt="myhkbPa.png" src="images\myhkbpa.png"><br>
-<img alt="3lfrvwO.png" src="images\3lfrvwo.png"><br>
-<img alt="aXiglkr.png" src="images\axiglkr.png"><br>
-<img alt="Bb58ONF.png" src="images\bb58onf.png"><br>
-<img alt="JhkzSCn.png" src="images\jhkzscn.png"><br>
-<img alt="0C0QSAo.png" src="images\0c0qsao.png"><br>
-<img alt="bp2yHHp.png" src="images\bp2yhhp.png"><br>
-<img alt="3JavYsU.png" src="images\3javysu.png"><br>
-<img alt="hfCDKuJ.png" src="images\hfcdkuj.png"><br>
-<img alt="fFvxecF.png" src="images\ffvxecf.png">
+<img alt="myhkbPa.png" src="https://weyway.github.io/crafts-and-guides/images/myhkbpa.png"><br>
+<img alt="3lfrvwO.png" src="https://weyway.github.io/crafts-and-guides/images/3lfrvwo.png"><br>
+<img alt="aXiglkr.png" src="https://weyway.github.io/crafts-and-guides/images/axiglkr.png"><br>
+<img alt="Bb58ONF.png" src="https://weyway.github.io/crafts-and-guides/images/bb58onf.png"><br>
+<img alt="JhkzSCn.png" src="https://weyway.github.io/crafts-and-guides/images/jhkzscn.png"><br>
+<img alt="0C0QSAo.png" src="https://weyway.github.io/crafts-and-guides/images/0c0qsao.png"><br>
+<img alt="bp2yHHp.png" src="https://weyway.github.io/crafts-and-guides/images/bp2yhhp.png"><br>
+<img alt="3JavYsU.png" src="https://weyway.github.io/crafts-and-guides/images/3javysu.png"><br>
+<img alt="hfCDKuJ.png" src="https://weyway.github.io/crafts-and-guides/images/hfcdkuj.png"><br>
+<img alt="fFvxecF.png" src="https://weyway.github.io/crafts-and-guides/images/ffvxecf.png">
 
 <br><br>Details
 Enemies
@@ -527,16 +527,16 @@ Duties
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Levequest" rel="noopener" class="external-link" title="Category:Levequest" href="https://ffxiv.gamerescape.com/wiki/Category:Levequest" target="_blank"></a><img height="20" alt="Levequest Icon.png" src="https://ffxiv.gamerescape.com/w/images/thumb/7/7c/Levequest_Icon.png/20px-Levequest_Icon.png" referrerpolicy="no-referrer" style="width: 20px; max-width: 100%;"> <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/The_Bloodhounds_of_Coerthas" rel="noopener" class="external-link" title="The Bloodhounds of Coerthas" href="https://ffxiv.gamerescape.com/wiki/The_Bloodhounds_of_Coerthas" target="_blank">The Bloodhounds of Coerthas</a>&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Coerthas_Central_Highlands" rel="noopener" class="external-link" title="Coerthas Central Highlands" href="https://ffxiv.gamerescape.com/wiki/Coerthas_Central_Highlands" target="_blank">Coerthas Central Highlands</a>
 
 Maps
-<img alt="hlx7Skn.png" src="images\hlx7skn.png"><br>
-<img alt="woaiBh5.png" src="images\woaibh5.png"><br>
-<img alt="DWEvZ84.png" src="images\dwevz84.png"><br>
-<img alt="pFCUgjg.png" src="images\pfcugjg.png"><br>
-<img alt="HLLMwc0.png" src="images\hllmwc0.png"><br>
-<img alt="qEX3IbA.png" src="images\qex3iba.png"><br>
-<img alt="W82QhLF.png" src="images\w82qhlf.png"><br>
-<img alt="WVWAqOE.png" src="images\wvwaqoe.png"><br>
-<img alt="cVEQZTI.png" src="images\cveqzti.png"><br>
-<img alt="pI6YkUh.png" src="images\pi6ykuh.png">
+<img alt="hlx7Skn.png" src="https://weyway.github.io/crafts-and-guides/images/hlx7skn.png"><br>
+<img alt="woaiBh5.png" src="https://weyway.github.io/crafts-and-guides/images/woaibh5.png"><br>
+<img alt="DWEvZ84.png" src="https://weyway.github.io/crafts-and-guides/images/dwevz84.png"><br>
+<img alt="pFCUgjg.png" src="https://weyway.github.io/crafts-and-guides/images/pfcugjg.png"><br>
+<img alt="HLLMwc0.png" src="https://weyway.github.io/crafts-and-guides/images/hllmwc0.png"><br>
+<img alt="qEX3IbA.png" src="https://weyway.github.io/crafts-and-guides/images/qex3iba.png"><br>
+<img alt="W82QhLF.png" src="https://weyway.github.io/crafts-and-guides/images/w82qhlf.png"><br>
+<img alt="WVWAqOE.png" src="https://weyway.github.io/crafts-and-guides/images/wvwaqoe.png"><br>
+<img alt="cVEQZTI.png" src="https://weyway.github.io/crafts-and-guides/images/cveqzti.png"><br>
+<img alt="pI6YkUh.png" src="https://weyway.github.io/crafts-and-guides/images/pi6ykuh.png">
 
 <br><br><br><br>Details
 Enemies
@@ -563,21 +563,21 @@ Duties
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Category:Levequest" rel="noopener" class="external-link" title="Category:Levequest" href="https://ffxiv.gamerescape.com/wiki/Category:Levequest" target="_blank"></a><img height="20" alt="Levequest Icon.png" src="https://ffxiv.gamerescape.com/w/images/thumb/7/7c/Levequest_Icon.png/20px-Levequest_Icon.png" referrerpolicy="no-referrer" style="width: 20px; max-width: 100%;"> <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/No_Big_Whoop" rel="noopener" class="external-link" title="No Big Whoop" href="https://ffxiv.gamerescape.com/wiki/No_Big_Whoop" target="_blank">No Big Whoop</a>&nbsp;-&nbsp;<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Coerthas_Central_Highlands" rel="noopener" class="external-link" title="Coerthas Central Highlands" href="https://ffxiv.gamerescape.com/wiki/Coerthas_Central_Highlands" target="_blank">Coerthas Central Highlands</a>
 
 Maps
-<img alt="sDyo6fV.png" src="images\sdyo6fv.png"><br>
-<img alt="dfmG3Md.png" src="images\dfmg3md.png"><br>
-<img alt="PJLyQo9.png" src="images\pjlyqo9.png"><br>
-<img alt="8rocr7x.png" src="images\8rocr7x.png"><br>
-<img alt="WwmtydT.png" src="images\wwmtydt.png"><br>
-<img alt="GgKcq5K.png" src="images\ggkcq5k.png"><br>
-<img alt="RcwG7cj.png" src="images\rcwg7cj.png"><br>
-<img alt="TfdlShO.png" src="images\tfdlsho.png"><br>
-<img alt="JKTYKxw.png" src="images\jktykxw.png"><br>
-<img alt="udY87am.png" src="images\udy87am.png">
+<img alt="sDyo6fV.png" src="https://weyway.github.io/crafts-and-guides/images/sdyo6fv.png"><br>
+<img alt="dfmG3Md.png" src="https://weyway.github.io/crafts-and-guides/images/dfmg3md.png"><br>
+<img alt="PJLyQo9.png" src="https://weyway.github.io/crafts-and-guides/images/pjlyqo9.png"><br>
+<img alt="8rocr7x.png" src="https://weyway.github.io/crafts-and-guides/images/8rocr7x.png"><br>
+<img alt="WwmtydT.png" src="https://weyway.github.io/crafts-and-guides/images/wwmtydt.png"><br>
+<img alt="GgKcq5K.png" src="https://weyway.github.io/crafts-and-guides/images/ggkcq5k.png"><br>
+<img alt="RcwG7cj.png" src="https://weyway.github.io/crafts-and-guides/images/rcwg7cj.png"><br>
+<img alt="TfdlShO.png" src="https://weyway.github.io/crafts-and-guides/images/tfdlsho.png"><br>
+<img alt="JKTYKxw.png" src="https://weyway.github.io/crafts-and-guides/images/jktykxw.png"><br>
+<img alt="udY87am.png" src="https://weyway.github.io/crafts-and-guides/images/udy87am.png">
 
 <br><br><br><br>While it makes no major difference. if you already bought some of the mats previously this step will be that much easier.<br>
 <br>Talk with <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Jalzahn" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Jalzahn" target="_blank">Jalzahn Daemir</a> while having your Animus weapon equipped and accept the quest <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Celestial_Radiance" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Celestial_Radiance" target="_blank">Celestial Radiance</a>.
 <br>If you haven't done so before, purchase 3 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Superior_Enchanted_Ink" rel="noopener" class="external-link" title="Superior Enchanted Ink" href="https://ffxiv.gamerescape.com/wiki/Superior_Enchanted_Ink" target="_blank">Superior Enchanted Ink</a> from a Rowena's Representative (such as <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Auriana/Allagan_Tomestones_of_Poetics_(Special_Arms)" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Auriana/Allagan_Tomestones_of_Poetics_(Special_Arms)" target="_blank">Auriana</a>) and deliver then to <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Hubairtin" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Hubairtin" target="_blank">Hubairtin</a> to receive a <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Sphere_Scroll" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Sphere_Scroll" target="_blank">Sphere Scroll</a> for your weapon.
-<br>Infuse 75 Materia to your Sphere Scroll. This will also require 75 Alexandrite (see <a data-href="#Initial Preparations" href="about:blank#Initial_Preparations" class="internal-link" target="_self" rel="noopener">Initial Preparations</a>).
+<br>Infuse 75 Materia to your Sphere Scroll. This will also require 75 Alexandrite (see <a data-href="#Initial Preparations" href="https://weyway.github.io/crafts-and-guides/about:blank#Initial_Preparations" class="internal-link" target="_self" rel="noopener">Initial Preparations</a>).
 Important
 You won't be able to add 75 materia from one single type as there is a minimum of 2 stats required.<br>
 Each stat also maxes out at 44.<br>
@@ -634,12 +634,12 @@ Shopping list
 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Bronze_Lake_Crystal" rel="noopener" class="external-link" title="Bronze Lake Crystal" href="https://ffxiv.gamerescape.com/wiki/Bronze_Lake_Crystal" target="_blank">Bronze Lake Crystal</a> - 100.000 Gil
 
 Crafted items
-<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Furnace_Ring" rel="noopener" class="external-link" title="Furnace Ring" href="https://ffxiv.gamerescape.com/wiki/Furnace_Ring" target="_blank">Furnace Ring</a> <img alt="14px-HQ_Icon.png" src="images\14px-hq_icon.png"> (<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Goldsmith" rel="noopener" class="external-link" title="Goldsmith" href="https://ffxiv.gamerescape.com/wiki/Goldsmith" target="_blank">GSM</a>)
+<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Furnace_Ring" rel="noopener" class="external-link" title="Furnace Ring" href="https://ffxiv.gamerescape.com/wiki/Furnace_Ring" target="_blank">Furnace Ring</a> <img alt="14px-HQ_Icon.png" src="https://weyway.github.io/crafts-and-guides/images/14px-hq_icon.png"> (<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Goldsmith" rel="noopener" class="external-link" title="Goldsmith" href="https://ffxiv.gamerescape.com/wiki/Goldsmith" target="_blank">GSM</a>)
 Craft it yourself!
 To craft the Furnace Ring requires 1 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Aged_Eye_of_Fire#Acquired_from_Desynth" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Aged_Eye_of_Fire#Acquired_from_Desynth" target="_blank">Aged Eye of Fire</a> that can only be obtained from Desynthesis.<br>
 You can Desynth an <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Aged_Ring" rel="noopener" class="external-link" title="Aged Ring" href="https://ffxiv.gamerescape.com/wiki/Aged_Ring" target="_blank">Aged Ring</a> that can be bought from the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Merchant_%26_Mender_(The_Silver_Bazaar)" rel="noopener" class="external-link" title="Merchant &amp; Mender (The Silver Bazaar)" href="https://ffxiv.gamerescape.com/wiki/Merchant_%26_Mender_(The_Silver_Bazaar)" target="_blank">Merchant &amp; Mender (The Silver Bazaar)</a> in Western Thanalan.
 
-<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Perfect_Firewood" rel="noopener" class="external-link" title="Perfect Firewood" href="https://ffxiv.gamerescape.com/wiki/Perfect_Firewood" target="_blank">Perfect Firewood</a> <img alt="14px-HQ_Icon.png" src="images\14px-hq_icon.png"> (<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Carpenter" rel="noopener" class="external-link" title="Carpenter" href="https://ffxiv.gamerescape.com/wiki/Carpenter" target="_blank">CRP</a>)
+<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Perfect_Firewood" rel="noopener" class="external-link" title="Perfect Firewood" href="https://ffxiv.gamerescape.com/wiki/Perfect_Firewood" target="_blank">Perfect Firewood</a> <img alt="14px-HQ_Icon.png" src="https://weyway.github.io/crafts-and-guides/images/14px-hq_icon.png"> (<a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Carpenter" rel="noopener" class="external-link" title="Carpenter" href="https://ffxiv.gamerescape.com/wiki/Carpenter" target="_blank">CRP</a>)
 Craft it yourself!
 To craft the Perfect Firewood requires 1 <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Aged_Spear_Shaft" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Aged_Spear_Shaft" target="_blank">Aged Spear Shaft</a> that can only be obtained from Desynthesis.<br>
 You can Desynth an <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Aged_Spear" rel="noopener" class="external-link" href="https://ffxiv.gamerescape.com/wiki/Aged_Spear" target="_blank">Aged Spear</a> that can be bought from the <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Merchant_%26_Mender_(The_Silver_Bazaar)" rel="noopener" class="external-link" title="Merchant &amp; Mender (The Silver Bazaar)" href="https://ffxiv.gamerescape.com/wiki/Merchant_%26_Mender_(The_Silver_Bazaar)" target="_blank">Merchant &amp; Mender (The Silver Bazaar)</a> in Western Thanalan.
@@ -728,12 +728,12 @@ Talk to Gerolt to accept <a data-tooltip-position="top" aria-label="https://ffxi
 Go to <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Mutamix_Bubblypots" rel="noopener" class="external-link" title="Mutamix Bubblypots" href="https://ffxiv.gamerescape.com/wiki/Mutamix_Bubblypots" target="_blank">Mutamix Bubblypots</a> and return to Gerolt to complete it.
 <br>For consecutive relics, you just need to speak to <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Jalzahn" rel="noopener" class="external-link" title="Jalzahn" href="https://ffxiv.gamerescape.com/wiki/Jalzahn" target="_blank">Jalzahn</a> and select Zodiac Weapon Recreation.<br><br><br>The last steps!<br>
 This will also require some Poetics spending as it will require you to buy Mahatma for 50 Poetics each, totalling 600 Poetics for all 12 Mahatma required.<br>
-This mechanic works a lot like the <a data-href="#6 - Nexus" href="about:blank#6_-_Nexus" class="internal-link" target="_self" rel="noopener">6 - Nexus</a> step.<br>
+This mechanic works a lot like the <a data-href="#6 - Nexus" href="https://weyway.github.io/crafts-and-guides/about:blank#6_-_Nexus" class="internal-link" target="_self" rel="noopener">6 - Nexus</a> step.<br>
 <br>Equip your Zodiac weapon and pick up the quest <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Rise_and_Shine" rel="noopener" class="external-link" title="Rise and Shine" href="https://ffxiv.gamerescape.com/wiki/Rise_and_Shine" target="_blank">Rise and Shine</a> from <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Jalzahn" rel="noopener" class="external-link" title="Jalzahn" href="https://ffxiv.gamerescape.com/wiki/Jalzahn" target="_blank">Jalzahn</a>.
 <br>Talk to <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Remon" rel="noopener" class="external-link" title="Remon" href="https://ffxiv.gamerescape.com/wiki/Remon" target="_blank">Remon</a> to infuse a Mahatma to your weapon for 50 Poetics.
 <br>Perform activities to add 2000 soul resonance to it, once it's full, return to <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Remon" rel="noopener" class="external-link" title="Remon" href="https://ffxiv.gamerescape.com/wiki/Remon" target="_blank">Remon</a> for another one, totalling 12 Mahatma.
 <br>Once all 12 Mahatma are done, go back to <a data-tooltip-position="top" aria-label="https://ffxiv.gamerescape.com/wiki/Jalzahn" rel="noopener" class="external-link" title="Jalzahn" href="https://ffxiv.gamerescape.com/wiki/Jalzahn" target="_blank">Jalzahn</a> and select Zodiac Weapon Awakening with the weapon in your inventory.
-<br><br><br><br><br><img alt="ARR_Relics_Comparison.jpg" src="images\arr_relics_comparison.jpg"><br><br>Date: 12/05/2024<br>
+<br><br><br><br><br><img alt="ARR_Relics_Comparison.jpg" src="https://weyway.github.io/crafts-and-guides/images/arr_relics_comparison.jpg"><br><br>Date: 12/05/2024<br>
 Collected by: W'eylyn Mavourneen<br>
 Collected from: Non exhaustively:<br>
 <br>FFXIV Wiki on Gamerescape
@@ -742,4 +742,4 @@ Collected from: Non exhaustively:<br>
 <br>Lodestone Play Guide
 <br>K'lo Kay Relic Grind guide - <a data-tooltip-position="top" aria-label="https://docs.google.com/document/d/18kjzwvNZYHEyweBFtyO4XLX5vrRD8h1vkEluEpgcTXU/edit?usp=sharing" rel="noopener" class="external-link" href="https://docs.google.com/document/d/18kjzwvNZYHEyweBFtyO4XLX5vrRD8h1vkEluEpgcTXU/edit?usp=sharing" target="_blank">Here</a>
 <br>Insomnikin's Imgur album - <a data-tooltip-position="top" aria-label="https://imgur.com/a/ENl0UAB" rel="noopener" class="external-link" href="https://imgur.com/a/ENl0UAB" target="_blank">Here</a>
-]]></description><link>zodiac-weapons-(relic).html</link><guid isPermaLink="false">Zodiac Weapons (Relic).md</guid><dc:creator><![CDATA[W'eylyn Mavourneen]]></dc:creator><pubDate>Sun, 12 May 2024 02:13:46 GMT</pubDate><enclosure url="https://ffxiv.gamerescape.com/w/images/thumb/c/ca/Guide_-_Zodiac_Weapons_-_Header.png/550px-Guide_-_Zodiac_Weapons_-_Header.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://ffxiv.gamerescape.com/w/images/thumb/c/ca/Guide_-_Zodiac_Weapons_-_Header.png/550px-Guide_-_Zodiac_Weapons_-_Header.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>https://weyway.github.io/crafts-and-guides/zodiac-weapons-(relic).html</link><guid isPermaLink="false">Zodiac Weapons (Relic).md</guid><dc:creator><![CDATA[W'eylyn Mavourneen]]></dc:creator><pubDate>Sun, 12 May 2024 02:13:46 GMT</pubDate><enclosure url="https://ffxiv.gamerescape.com/w/images/thumb/c/ca/Guide_-_Zodiac_Weapons_-_Header.png/550px-Guide_-_Zodiac_Weapons_-_Header.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://ffxiv.gamerescape.com/w/images/thumb/c/ca/Guide_-_Zodiac_Weapons_-_Header.png/550px-Guide_-_Zodiac_Weapons_-_Header.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>

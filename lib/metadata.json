@@ -1,6 +1,6 @@
 {
   "vaultName": "Weyway - Crafts and Guides",
-  "lastExport": 1715489257836,
+  "lastExport": 1715544512032,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager show-inline-title theme-light",
   "useCustomHeadContent": false,
@@ -173,7 +173,7 @@
   ],
   "fileInfo": {
     "Index.md": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 320,
       "exportedPath": "index.html",
       "dependencies": [
@@ -181,151 +181,151 @@
       ]
     },
     "images/xd.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 606465,
       "exportedPath": "images/xd.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 3645,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 21404,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 80125,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 472,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Yo-kai Watch.md": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 8520,
       "exportedPath": "yo-kai-watch.html",
       "dependencies": [
@@ -355,7 +355,7 @@
       ]
     },
     "Zodiac Weapons (Relic).md": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 144942,
       "exportedPath": "zodiac-weapons-(relic).html",
       "dependencies": [
@@ -451,667 +451,667 @@
       ]
     },
     "images/pasted-image-20240510000543.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 516287,
       "exportedPath": "images/pasted-image-20240510000543.png",
       "dependencies": []
     },
     "images/pasted-image-20240426231447.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 186110,
       "exportedPath": "images/pasted-image-20240426231447.png",
       "dependencies": []
     },
     "images/pasted-image-20240427021002.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 185094,
       "exportedPath": "images/pasted-image-20240427021002.png",
       "dependencies": []
     },
     "images/pasted-image-20240427033706.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 75587,
       "exportedPath": "images/pasted-image-20240427033706.png",
       "dependencies": []
     },
     "images/350px-whisper_a-go-go_key-20210305232034.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 222623,
       "exportedPath": "images/350px-whisper_a-go-go_key-20210305232034.png",
       "dependencies": []
     },
     "images/290px-jibanyan_couch_medal-20210305231747.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 252063,
       "exportedPath": "images/290px-jibanyan_couch_medal-20210305231747.png",
       "dependencies": []
     },
     "images/pasted-image-20240427034751.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 115983,
       "exportedPath": "images/pasted-image-20240427034751.png",
       "dependencies": []
     },
     "images/x1m3fmsojqnbl4c3t6kkflwnvg.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 26403,
       "exportedPath": "images/x1m3fmsojqnbl4c3t6kkflwnvg.png",
       "dependencies": []
     },
     "images/zsqjvyedczji9qrrbrok3pvk98.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 22006,
       "exportedPath": "images/zsqjvyedczji9qrrbrok3pvk98.png",
       "dependencies": []
     },
     "images/t3oxdikl9mgpmppjfclcnoblvg.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 25232,
       "exportedPath": "images/t3oxdikl9mgpmppjfclcnoblvg.png",
       "dependencies": []
     },
     "images/ivx4gb6h2zxpfinyekwih2dhc4.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 21829,
       "exportedPath": "images/ivx4gb6h2zxpfinyekwih2dhc4.png",
       "dependencies": []
     },
     "images/a-36ag6dt7qtjuoadi7s6vhntg.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 27386,
       "exportedPath": "images/a-36ag6dt7qtjuoadi7s6vhntg.png",
       "dependencies": []
     },
     "images/hy4texf-1dtjlhc7ahvpihsioc.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 26317,
       "exportedPath": "images/hy4texf-1dtjlhc7ahvpihsioc.png",
       "dependencies": []
     },
     "images/twdoz4d2ogyg0x8plxabucg-x8.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 24005,
       "exportedPath": "images/twdoz4d2ogyg0x8plxabucg-x8.png",
       "dependencies": []
     },
     "images/obeipm-rxkwnxrecrd9d77ww2c.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 22507,
       "exportedPath": "images/obeipm-rxkwnxrecrd9d77ww2c.png",
       "dependencies": []
     },
     "images/fszuzbyux_npqflzmk9vz17xl4.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 20931,
       "exportedPath": "images/fszuzbyux_npqflzmk9vz17xl4.png",
       "dependencies": []
     },
     "images/fmal25lz6tzfn6u0beeucnxn-4.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 21637,
       "exportedPath": "images/fmal25lz6tzfn6u0beeucnxn-4.png",
       "dependencies": []
     },
     "images/is9g9dxnbuy33sjkq-n-63jzq.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 25452,
       "exportedPath": "images/is9g9dxnbuy33sjkq-n-63jzq.png",
       "dependencies": []
     },
     "images/sosbd5q50xjgd3z5bvlw_yfsdk-1.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 29631,
       "exportedPath": "images/sosbd5q50xjgd3z5bvlw_yfsdk-1.png",
       "dependencies": []
     },
     "images/z_51dzq_mlgcwucz9elarle72u.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 27797,
       "exportedPath": "images/z_51dzq_mlgcwucz9elarle72u.png",
       "dependencies": []
     },
     "images/18i4nbvqtsgot7lpdn-hmx-avg.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 25325,
       "exportedPath": "images/18i4nbvqtsgot7lpdn-hmx-avg.png",
       "dependencies": []
     },
     "images/7zy4crfg-bk-b7tz9b2xyfun3u.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 20554,
       "exportedPath": "images/7zy4crfg-bk-b7tz9b2xyfun3u.png",
       "dependencies": []
     },
     "images/2fz9zxwajkfir7zwzp3k2wctca.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 26811,
       "exportedPath": "images/2fz9zxwajkfir7zwzp3k2wctca.png",
       "dependencies": []
     },
     "images/r6-murhowqm4m1clgkvxx8oxx0.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 21060,
       "exportedPath": "images/r6-murhowqm4m1clgkvxx8oxx0.png",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 232,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
     "images/s1u0vps.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 506541,
       "exportedPath": "images/s1u0vps.png",
       "dependencies": []
     },
     "images/72bc1et.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 675755,
       "exportedPath": "images/72bc1et.png",
       "dependencies": []
     },
     "images/bevwhpo.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 655373,
       "exportedPath": "images/bevwhpo.png",
       "dependencies": []
     },
     "images/5ljxfda.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 816284,
       "exportedPath": "images/5ljxfda.png",
       "dependencies": []
     },
     "images/jgmpacz.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1103756,
       "exportedPath": "images/jgmpacz.png",
       "dependencies": []
     },
     "images/bcgkf6q.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1103099,
       "exportedPath": "images/bcgkf6q.png",
       "dependencies": []
     },
     "images/lycb4qn.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 953484,
       "exportedPath": "images/lycb4qn.png",
       "dependencies": []
     },
     "images/h0dd6gn.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 698197,
       "exportedPath": "images/h0dd6gn.png",
       "dependencies": []
     },
     "images/rnlsp34.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 674061,
       "exportedPath": "images/rnlsp34.png",
       "dependencies": []
     },
     "lib/media/clip_image001.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1182,
       "exportedPath": "lib/media/clip_image001.png",
       "dependencies": []
     },
     "images/ztad98c.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 504119,
       "exportedPath": "images/ztad98c.png",
       "dependencies": []
     },
     "images/xeu7qic.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 676524,
       "exportedPath": "images/xeu7qic.png",
       "dependencies": []
     },
     "images/0mi86t6.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 831223,
       "exportedPath": "images/0mi86t6.png",
       "dependencies": []
     },
     "images/7skmtoh.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1083664,
       "exportedPath": "images/7skmtoh.png",
       "dependencies": []
     },
     "images/1pbhobf.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 960290,
       "exportedPath": "images/1pbhobf.png",
       "dependencies": []
     },
     "images/j6vzwqi.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 699341,
       "exportedPath": "images/j6vzwqi.png",
       "dependencies": []
     },
     "images/hhmetkv.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 856093,
       "exportedPath": "images/hhmetkv.png",
       "dependencies": []
     },
     "images/cdwidni.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 662433,
       "exportedPath": "images/cdwidni.png",
       "dependencies": []
     },
     "images/npt2quy.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 509803,
       "exportedPath": "images/npt2quy.png",
       "dependencies": []
     },
     "images/2codrzx.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 673402,
       "exportedPath": "images/2codrzx.png",
       "dependencies": []
     },
     "images/oxwkc0g.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 817280,
       "exportedPath": "images/oxwkc0g.png",
       "dependencies": []
     },
     "images/bpxhu8c.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 652107,
       "exportedPath": "images/bpxhu8c.png",
       "dependencies": []
     },
     "images/sw6nyul.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1078783,
       "exportedPath": "images/sw6nyul.png",
       "dependencies": []
     },
     "images/mc0qagm.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 960493,
       "exportedPath": "images/mc0qagm.png",
       "dependencies": []
     },
     "images/prekvjf.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 699707,
       "exportedPath": "images/prekvjf.png",
       "dependencies": []
     },
     "images/asykqz8.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 684065,
       "exportedPath": "images/asykqz8.png",
       "dependencies": []
     },
     "images/mkizq4v.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 669681,
       "exportedPath": "images/mkizq4v.png",
       "dependencies": []
     },
     "images/2vxintm.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 504511,
       "exportedPath": "images/2vxintm.png",
       "dependencies": []
     },
     "images/b4ivkqb.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 675063,
       "exportedPath": "images/b4ivkqb.png",
       "dependencies": []
     },
     "images/uhp5or7.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 831204,
       "exportedPath": "images/uhp5or7.png",
       "dependencies": []
     },
     "images/ewawrhb.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 651519,
       "exportedPath": "images/ewawrhb.png",
       "dependencies": []
     },
     "images/ovf3gtt.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1078725,
       "exportedPath": "images/ovf3gtt.png",
       "dependencies": []
     },
     "images/hjhmff4.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 637736,
       "exportedPath": "images/hjhmff4.png",
       "dependencies": []
     },
     "images/kjiktsd.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 951595,
       "exportedPath": "images/kjiktsd.png",
       "dependencies": []
     },
     "images/uakoy5y.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 691343,
       "exportedPath": "images/uakoy5y.png",
       "dependencies": []
     },
     "images/3mu2slu.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 664912,
       "exportedPath": "images/3mu2slu.png",
       "dependencies": []
     },
     "images/dh7wmwu.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 550185,
       "exportedPath": "images/dh7wmwu.png",
       "dependencies": []
     },
     "images/nt0mgp8.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 671421,
       "exportedPath": "images/nt0mgp8.png",
       "dependencies": []
     },
     "images/dwpicma.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 829573,
       "exportedPath": "images/dwpicma.png",
       "dependencies": []
     },
     "images/bbac1se.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1078590,
       "exportedPath": "images/bbac1se.png",
       "dependencies": []
     },
     "images/4radkff.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1099187,
       "exportedPath": "images/4radkff.png",
       "dependencies": []
     },
     "images/g5ktngf.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 948899,
       "exportedPath": "images/g5ktngf.png",
       "dependencies": []
     },
     "images/ucurvqt.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 700384,
       "exportedPath": "images/ucurvqt.png",
       "dependencies": []
     },
     "images/qxvluup.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 684438,
       "exportedPath": "images/qxvluup.png",
       "dependencies": []
     },
     "images/ipybwp0.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 666971,
       "exportedPath": "images/ipybwp0.png",
       "dependencies": []
     },
     "images/if5j6v1.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 546749,
       "exportedPath": "images/if5j6v1.png",
       "dependencies": []
     },
     "images/ggfezep.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 677992,
       "exportedPath": "images/ggfezep.png",
       "dependencies": []
     },
     "images/iwr9kqa.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 816661,
       "exportedPath": "images/iwr9kqa.png",
       "dependencies": []
     },
     "images/zzncp3t-1.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1079317,
       "exportedPath": "images/zzncp3t-1.png",
       "dependencies": []
     },
     "images/lypfij6.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 953251,
       "exportedPath": "images/lypfij6.png",
       "dependencies": []
     },
     "images/dowybaw.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1098712,
       "exportedPath": "images/dowybaw.png",
       "dependencies": []
     },
     "images/ewoxjo8.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 711052,
       "exportedPath": "images/ewoxjo8.png",
       "dependencies": []
     },
     "images/fqc1di3.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 859697,
       "exportedPath": "images/fqc1di3.png",
       "dependencies": []
     },
     "images/3eeiyek.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 664459,
       "exportedPath": "images/3eeiyek.png",
       "dependencies": []
     },
     "images/myhkbpa.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 546058,
       "exportedPath": "images/myhkbpa.png",
       "dependencies": []
     },
     "images/3lfrvwo.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 674559,
       "exportedPath": "images/3lfrvwo.png",
       "dependencies": []
     },
     "images/axiglkr.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 819368,
       "exportedPath": "images/axiglkr.png",
       "dependencies": []
     },
     "images/bb58onf.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 651699,
       "exportedPath": "images/bb58onf.png",
       "dependencies": []
     },
     "images/jhkzscn.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 355360,
       "exportedPath": "images/jhkzscn.png",
       "dependencies": []
     },
     "images/0c0qsao.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1079466,
       "exportedPath": "images/0c0qsao.png",
       "dependencies": []
     },
     "images/bp2yhhp.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 952975,
       "exportedPath": "images/bp2yhhp.png",
       "dependencies": []
     },
     "images/3javysu.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 701494,
       "exportedPath": "images/3javysu.png",
       "dependencies": []
     },
     "images/hfcdkuj.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 663989,
       "exportedPath": "images/hfcdkuj.png",
       "dependencies": []
     },
     "images/ffvxecf.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 721093,
       "exportedPath": "images/ffvxecf.png",
       "dependencies": []
     },
     "images/hlx7skn.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 544487,
       "exportedPath": "images/hlx7skn.png",
       "dependencies": []
     },
     "images/woaibh5.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 678983,
       "exportedPath": "images/woaibh5.png",
       "dependencies": []
     },
     "images/dwevz84.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 817213,
       "exportedPath": "images/dwevz84.png",
       "dependencies": []
     },
     "images/pfcugjg.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1078396,
       "exportedPath": "images/pfcugjg.png",
       "dependencies": []
     },
     "images/hllmwc0.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1098861,
       "exportedPath": "images/hllmwc0.png",
       "dependencies": []
     },
     "images/qex3iba.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 956028,
       "exportedPath": "images/qex3iba.png",
       "dependencies": []
     },
     "images/w82qhlf.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 700428,
       "exportedPath": "images/w82qhlf.png",
       "dependencies": []
     },
     "images/wvwaqoe.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 687742,
       "exportedPath": "images/wvwaqoe.png",
       "dependencies": []
     },
     "images/cveqzti.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 663338,
       "exportedPath": "images/cveqzti.png",
       "dependencies": []
     },
     "images/pi6ykuh.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 855208,
       "exportedPath": "images/pi6ykuh.png",
       "dependencies": []
     },
     "images/sdyo6fv.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 544985,
       "exportedPath": "images/sdyo6fv.png",
       "dependencies": []
     },
     "images/dfmg3md.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 676788,
       "exportedPath": "images/dfmg3md.png",
       "dependencies": []
     },
     "images/pjlyqo9.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 817014,
       "exportedPath": "images/pjlyqo9.png",
       "dependencies": []
     },
     "images/8rocr7x.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 651904,
       "exportedPath": "images/8rocr7x.png",
       "dependencies": []
     },
     "images/wwmtydt.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1079405,
       "exportedPath": "images/wwmtydt.png",
       "dependencies": []
     },
     "images/ggkcq5k.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 956564,
       "exportedPath": "images/ggkcq5k.png",
       "dependencies": []
     },
     "images/rcwg7cj.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 636803,
       "exportedPath": "images/rcwg7cj.png",
       "dependencies": []
     },
     "images/tfdlsho.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 699341,
       "exportedPath": "images/tfdlsho.png",
       "dependencies": []
     },
     "images/jktykxw.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 663252,
       "exportedPath": "images/jktykxw.png",
       "dependencies": []
     },
     "images/udy87am.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 855491,
       "exportedPath": "images/udy87am.png",
       "dependencies": []
     },
     "images/14px-hq_icon.png": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 1029,
       "exportedPath": "images/14px-hq_icon.png",
       "dependencies": []
     },
     "images/arr_relics_comparison.jpg": {
-      "modifiedTime": 1715489257836,
+      "modifiedTime": 1715544512032,
       "sourceSize": 2007927,
       "exportedPath": "images/arr_relics_comparison.jpg",
       "dependencies": []
